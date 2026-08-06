@@ -1,4 +1,5 @@
 public enum Sexo {
+
     MULHER("Mulher"),
     HOMEM("Homem"),
     OUTRO("Outro"),
